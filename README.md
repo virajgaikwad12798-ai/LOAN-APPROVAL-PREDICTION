@@ -1,2 +1,2 @@
 # LOAN-APPROVAL-PREDICTION
-my project
+Loan Approval Prediction
