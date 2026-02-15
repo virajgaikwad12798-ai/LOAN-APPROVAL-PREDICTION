@@ -30,11 +30,11 @@ Loan_Amount_Term,
 Credit_History,
 Property_Area.
 # 🚀 FUTURE IMPROVEMENTS
-Hyperparameter tuning
-Deployment using Flask/Streamlit
-Use of advanced models (XGBoost, LightGBM)
-Real-time prediction web app
-Handling class imbalance
+Hyperparameter tuning,
+Deployment using Flask/Streamlit,
+Use of advanced models (XGBoost, LightGBM),
+Real-time prediction web app,
+Handling class imbalance.
 # AUTHOR
 VIRAJ SURYAKANT GAIKWAD (virajgaikwad12798@gmail.com)
 Intership Project-2026
