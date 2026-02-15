@@ -10,17 +10,31 @@ Numpy,
 Matplotlib,
 Seaborn,
 Scikit Learn.
-# PROJECT STRUCTURE
-Loan-Approval-Prediction/
-│
-├── data/
-│   └── loan_data.csv
-│
-├── notebooks/
-│   └── loan_prediction.ipynb
-│
-├── models/
-│   └── trained_model.pkl
-│
-├── README.md
-└── requirements.txt
+# PROJECT WORKFLOW
+Import Libraries, Load Dataset, Data Preprocessing, Exploratory Data Analysis(EDA), Train-Test Spilt, Model Training, Model Evaluation, Prediction.
+# 📈EVALUATION METRICS EXPLAINED
+Accuracy: Overall correctness of the model
+Precision: Correct positive predictions
+Recall: Ability to find all positive cases
+F1-score: Balance between precision and recall
+#📊 SAMPLE INPUT FEATURES
+Gender,
+Married,
+Dependents,
+Education,
+Self_Employed,
+ApplicantIncome,
+CoapplicantIncome,
+LoanAmount,
+Loan_Amount_Term,
+Credit_History,
+Property_Area.
+# 🚀 FUTURE IMPROVEMENTS
+Hyperparameter tuning
+Deployment using Flask/Streamlit
+Use of advanced models (XGBoost, LightGBM)
+Real-time prediction web app
+Handling class imbalance
+# AUTHOR
+VIRAJ SURYAKANT GAIKWAD (virajgaikwad12798@gmail.com)
+Intership Project-2026
